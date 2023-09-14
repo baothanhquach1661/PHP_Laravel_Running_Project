@@ -1,0 +1,444 @@
+.mainmenu>li>a {
+	font-family: "Arial", sans-serif;
+}
+
+.header-action>ul>li>a::after {
+	background-color: #E4DCCF;
+}
+
+
+/*login with google button*/
+.google-btn {
+	width: 205px;
+	height: 60px;
+	background-color: #4285f4;
+	border-radius: 2px;
+	box-shadow: 0 3px 4px 0 rgba(0,0,0,.25);
+}
+
+.google-icon-wrapper {
+	position: absolute;
+    margin-top: 1px;
+    margin-left: 1px;
+    width: 50px;
+    height: 57px;
+    border-radius: 1px;
+    background-color: #fff;
+}
+
+.google-icon {
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 11px;
+    width: 30px;
+    height: 36px;
+}
+
+.btn-text {
+    float: right;
+    margin: 18px 10px 0 0;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 0.1px;
+    font-family: "Arial", sans-serif;
+ }
+
+.google-btn:hover {
+	box-shadow: 0 0 6px #4285f4;
+}
+
+.google-btn:active {
+	background: #1669F2;
+}
+
+
+.h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, ul, li, p {
+
+	font-family: "Arial", sans-serif;
+}
+
+a {
+	font-family: "Arial", sans-serif;
+}
+
+
+.main-slider-style-5 .slider-box-wrap .single-slide {
+	padding: unset;
+}
+
+.axil-footer-widget .inner ul li a:after {
+    position: unset;
+}
+
+.mainmenu>.menu-item-has-children .axil-submenu li a:hover {
+    color:  gray;
+}
+
+.axil-product .product-content .title {
+    color: black;
+}
+
+.axil-product .product-content .title a:hover {
+    color: gray;
+}
+
+.axil-product>.thumbnail .label-block .product-badget {
+    background-color: #FF8B13;
+    line-height: 1;
+    padding: 6px 10px 5px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #1A0000;
+    border-radius: 4px;
+    box-shadow: 0 8px 16px 0 rgba(53,119,240,.3);
+}
+
+.single-product-content .inner .product-meta li {
+    color: #88888a;
+}
+
+a.axil-btn.btn-bg-primary:before, button.axil-btn.btn-bg-primary:before {
+    background-color: #2C3333;
+}
+
+.axil-breadcrumb li.axil-breadcrumb-item.active {
+    color: #03001C;
+}
+
+.axil-breadcrumb li a:hover {
+    color: #20262E;
+}
+
+.axil-breadcrumb li {
+    font-family: "Arial", sans-serif;
+}
+
+a.axil-btn, button.axil-btn {
+    padding: 10px 10px;
+}
+
+.axil-product-table tbody td.product-title {
+    width: 30%;
+    font-size: 16px;
+    color: #000;
+}
+
+.header-action .shopping-cart .cart-dropdown-btn .cart-count {
+    text-align: center;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.axil-product-cart-wrap .product-cupon .axil-btn {
+    font-family: "Arial", sans-serif;
+    width: 100px;
+}
+
+.axil-product-cart-wrap .update-btn .axil-btn {
+    width: 107px;
+}
+
+.header-top-campaign .campaign-content p {;
+    font-size: 19px;
+}
+
+.axil-slick-arrow.header-campaign-arrow .slide-arrow {
+    color: black;
+}
+
+.axil-slick-arrow.header-campaign-arrow .slide-arrow:hover {
+    color: black;
+}
+
+.remove-coupon {
+    margin-left: 10px;
+    text-align: center;
+    height: 32px;
+    width: 32px;
+    line-height: 30px;
+    background-color: var(--color-lighter);
+    border: 2px solid var(--color-lighter);
+    border-radius: 50%;
+    font-size: 12px;
+    color: var(--color-black);
+    transition: var(--transition);
+}
+
+.update-cart{
+
+    border-radius: 6px;
+    font-size: var(--font-size-b1);
+    line-height: var(--line-height-b1);
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    transition: all .3s ease-in-out;
+    z-index: 1;
+    background-color: #2C3333;
+    color: white;
+    width: auto;
+}
+
+.bell {
+    display: inline-block;
+    position: relative;
+    background-color: #eee;
+    width: 48px;
+    height: 42px;
+    text-align: center;
+}
+.bell img {
+    width: 50px;
+    height: 50px;
+}
+.bellnumbers {
+    font-size:10px;
+    background-color: rgba(153,153,153,0.9);
+    width:20px;
+    line-height: 16px;
+    text-align: center;
+    color:#fff;
+    z-index: 2;
+    border-radius: 8px;
+    position: absolute;
+    left: 50px;
+}
+
+.axil-product-table thead th {
+    font-family: "Arial", sans-serif;
+}
+
+.axil-order-summery {
+    background-color: #f6f7fb;
+}
+
+.axil-order-summery .summery-table tbody td {
+    font-family: "Arial", sans-serif;
+}
+
+.axil-checkout-coupon {
+    background-color: rgb(255, 234, 234);
+    padding: 15px 20px 15px 0px;
+    width: 100%;
+}
+
+.axil-order-summery.order-checkout-summery .order-payment-method .single-payment .input-group label {
+   font-family: "Arial", sans-serif;
+}
+
+.axil-dashboard-order .table thead th {
+    font-family: "Arial", sans-serif;
+}
+
+.remove-delivery_fee {
+    font-size: 13px;
+    margin-left: 1px;
+}
+
+.remove-delivery_fee:hover {
+    color: black;
+}
+
+.form-group .label-customs {
+    margin-bottom: 6px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+    color: black;
+}
+
+.form-group .input-customs {
+    border: 0 none;
+    border-radius: 6px;
+    height: 50px;
+    font-size: 16px;
+    padding: 0 20px;
+    background-color: #fff;
+    border: 1px solid var(--color-light);
+}
+
+.footer-logo {
+    margin: 0 5px;
+    width: 35px;
+}
+
+.axil-footer-widget .widget-title{
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: -0.025em;
+    margin-bottom: 20px;
+}
+
+.axil-footer-widget .inner ul li {
+    margin: 0 0 5px;
+}
+.axil-footer-widget .inner ul li a {
+    color: var(--color-body);
+    font-weight: 500;
+    font-size: 13px;
+    transition: .3s;
+    position: relative;
+}
+
+.product-title a:hover {
+    color: black;
+}
+
+
+.social-button{
+      display: inline-grid;
+        position: fixed;
+        bottom: 100px;
+        right: 45px;
+        min-width: 45px;
+        text-align: center;
+        z-index: 99999;
+    }
+    .social-button-content{
+      display: inline-grid;   
+    }
+    .social-button a {padding:8px 0;cursor: pointer;position: relative;}
+    .social-button i{
+      width: 40px;
+        height: 40px;
+        background: #43a1f3;
+        color: #fff;
+        border-radius: 100%;
+        font-size: 20px;
+        text-align: center;
+        line-height: 1.9;
+        position: relative;
+        z-index: 999;
+    }
+    .social-button span{
+      display: none;
+    }
+    .alo-circle {
+        animation-iteration-count: infinite;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+        animation-name: zoomIn;
+        width: 50px;
+        height: 50px;
+        top: 3px;
+        right: -3px;
+        position: absolute;
+        background-color: transparent;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        border: 2px solid rgba(30, 30, 30, 0.4);
+        opacity: .1;
+        border-color: #0089B9;
+        opacity: .5;
+    }
+    .alo-circle-fill {
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-fill-mode: both;
+      animation-name: pulse;
+        width: 60px;
+        height: 60px;
+        top: -2px;
+        right: -8px;
+        position: absolute;
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        border: 2px solid transparent;
+        background-color: rgba(0, 175, 242, 0.5);
+        opacity: .75;
+    }
+    .call-icon:hover > span, .mes:hover > span, .sms:hover > span, .zalo:hover > span{display: block}
+    .social-button a span {
+        border-radius: 2px;
+        text-align: center;
+        background: #1F8A70;
+        padding: 9px;
+        display: none;
+        width: 180px;
+        margin-left: 10px;
+        position: absolute;
+        color: #ffffff;
+        z-index: 999;
+        top: 9px;
+        right: 40px;
+        transition: all 0.2s ease-in-out 0s;
+        -moz-animation: headerAnimation 0.7s 1;
+        -webkit-animation: headerAnimation 0.7s 1;
+        -o-animation: headerAnimation 0.7s 1;
+        animation: headerAnimation 0.7s 1;
+    }
+    @-webkit-keyframes "headerAnimation" {
+        0% { margin-top: -70px; }
+        100% { margin-top: 0; }
+    }
+    @keyframes "headerAnimation" {
+        0% { margin-top: -70px; }
+        100% { margin-top: 0; }
+    }
+
+.blog-grid .content .title a:hover {
+    color: #4E6E81;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
